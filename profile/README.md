@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-visit https://zorwink.in
-
 <!--
 
 **Here are some ideas to get you started:**
